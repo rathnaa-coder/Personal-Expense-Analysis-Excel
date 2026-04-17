@@ -29,4 +29,4 @@ This is an Excel-based dashboard designed to track and analyze personal spending
 
 This project includes an interactive Power BI dashboard for analyzing personal expenses.
 
-![Dashboard Preview](Image_dashboard_preview.png)
+![Dashboard Preview](PowerBI_dashboard_preview.png)
